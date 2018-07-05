@@ -7,11 +7,16 @@ This is a backend-only service. If you're looking for the web frontend applicati
 ## Getting Started
 
 ```bashl
-npm install -g bitcore-node@latest
-bitcore-node create mynode
+
+git clone https://github.com/BZEdge/bitcore-node-bzedge.git
+cd bitcore-node-bzedge
+npm install
+cd bin
+./bitcore-node create mynode
 cd mynode
-bitcore-node install insight-api-zcash
-bitcore-node start
+git clone https://github.com/BZEdge/insight-api-bzedge.git
+../bitcore-node install insight-api-bzedge
+../bitcore-node start
 ```
 
 The API endpoints will be available by default at: `http://localhost:3001/insight-api/`
