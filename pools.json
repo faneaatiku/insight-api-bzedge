@@ -26,5 +26,20 @@
     "searchStrings": [
       "{ZMINE.IO}"
     ]
+  },
+  {
+      "poolName": "Mining.me.uk",
+      "url": "http://bzedge.mining.me.uk/",
+      "searchStrings": [
+          "mining.me.uk"
+      ]
+  },
+  {
+     "poolName": "equipool.1ds.us",
+     "url": "https://equipool.1ds.us/getting_started",
+     "searchStrings": [
+         "equipool.1ds.us"
+     ]
   }
+
 ]
