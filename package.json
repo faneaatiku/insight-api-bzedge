@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-zcash",
-  "description": "A Zcash blockchain REST and web socket API service for Bitcore Node.",
+  "name": "insight-api-bzedge",
+  "description": "A BZEdge blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/str4d/insight-api-zcash.git",
+  "repository": "git://github.com/bzedge/insight-api-bzedge.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -42,9 +42,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/str4d/insight-api-zcash/issues"
+    "url": "https://github.com/bzedge/insight-api-bzedge/issues"
   },
-  "homepage": "https://github.com/str4d/insight-api-zcash",
+  "homepage": "https://github.com/bzedge/insight-api-bzedge",
   "license": "MIT",
   "keywords": [
     "insight",
