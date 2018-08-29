@@ -40,6 +40,13 @@
      "searchStrings": [
          "equipool.1ds.us"
      ]
+  },
+ {
+    "poolName": "Minerul.me",
+    "url": "https://bze.minerul.me",
+    "searchStrings": [
+        "minerul.me"
+    ]
   }
 
 ]
