@@ -35,6 +35,13 @@
       ]
   },
   {
+    "poolName": "Minerul.me",
+    "url": "https://bze.minerul.me",
+    "searchStrings": [
+        "minerul.me"
+    ]
+  },
+  {
      "poolName": "equipool.1ds.us",
      "url": "https://equipool.1ds.us/getting_started",
      "searchStrings": [
